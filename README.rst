@@ -1,6 +1,6 @@
 Github Webhook Test
-============
+===================
 
 ::
 
-    ./query.sh <webhook event>
+    ./query.sh <host>:<port> <event>
